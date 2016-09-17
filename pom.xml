@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.beigesoft</groupId>
   <artifactId>beige-maven-skin</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   
   <name>Beigesoft Maven bootstrap site skin</name>
   <description>Beigesoft Maven bootstrap site skin</description>
